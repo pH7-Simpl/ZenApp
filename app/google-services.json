@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128676906380",
+    "project_id": "zenapp-82d9f",
+    "storage_bucket": "zenapp-82d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128676906380:android:ba5b22eae1e8a4e05582a9",
+        "android_client_info": {
+          "package_name": "com.example.zenapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAXBmKnYAjDXiAR14Gi9b635uipQxpIg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

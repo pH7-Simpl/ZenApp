@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZenApp</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+    <string name="pilih_gambar">Pilih Gambar</string>
+    <string name="preview_image">Preview_image</string>
+</resources>
